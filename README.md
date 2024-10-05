@@ -25,7 +25,7 @@ Il re-expédie ensuite le message à chacune des adresses enregistrées dans le 
 - dans l'onglet «Aliases», cliquez sur «more» en bas à droite de la case
 ![image](https://github.com/user-attachments/assets/ad31defe-e538-45ba-b5fa-39d1cad22cf1)
 
-- cochez la case correspondant à votre adresse dans la liste de sélection «current mailboxes»
+- cochez la case correspondant à votre adresse dans la liste de sélection «current mailbox»
 ![image](https://github.com/user-attachments/assets/3eee74fc-a78e-4ad0-895f-83b7f317ef63)
 
 Félicitations, c'est terminé !
